@@ -1,0 +1,15 @@
+{
+    "name": "meysam/reactjs",
+    "authors": [
+        {
+            "name": "meysam",
+            "email": "mpiri44@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "Classes"
+        ]
+    }
+}
