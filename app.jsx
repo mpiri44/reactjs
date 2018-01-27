@@ -36,8 +36,8 @@ class Main extends React.Component{
         );
     }
 }
-if(document.getElementById('container'))
-    ReactDOM.render(<Main/>,document.getElementById('container'));
+// if(document.getElementById('container'))
+//     ReactDOM.render(<Main/>,document.getElementById('container'));
 
 
 
